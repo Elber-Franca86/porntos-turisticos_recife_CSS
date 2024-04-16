@@ -3,8 +3,8 @@ header{
 }
 
 header, footer {
-    background: #58378c;
-    color: white;
+    background: #2421e0;
+    color: rgb(238, 237, 242);
     padding: 16px;
 }
 
@@ -14,13 +14,13 @@ header, footer {
 
 a {
     text-decoration: none;
-    color: white;
+    color: rgb(156, 0, 0);
 }
 
 main {
-    background-color: #ef7d19;
+    background-color: #eeee16;
     padding: 19px;
-    color: white;
+    color: rgb(175, 17, 17);
     font-family: 'lucida sans', verdana, sans-serif;
 }
 

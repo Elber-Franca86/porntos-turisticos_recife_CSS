@@ -3,9 +3,15 @@ header{
 }
 
 header, footer {
-    background: #4745cf;
-    color: rgb(227, 226, 235);
+    background: #39519a;
+    color: rgb(255, 255, 255);
     padding: 16px;
+}
+
+#my-button{
+    display: flex;
+    justify-content: space-around;
+    
 }
 
 #logo-header {
@@ -14,13 +20,13 @@ header, footer {
 
 a {
     text-decoration: none;
-    color: rgb(22, 9, 9);
+    color: rgb(168, 13, 13);
 }
 
 main {
     background-color: #a4a419;
     padding: 19px;
-    color: rgb(247, 247, 247);
+    color: rgb(65, 19, 19);
     font-family: 'lucida sans', verdana, sans-serif;
 }
 
